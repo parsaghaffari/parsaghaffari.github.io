@@ -1,11 +1,12 @@
-## Parsa Ghaffari
-Founder, CEO at [AYLIEN](http://aylien.com) – Enthusiastic about artificial intelligence, machine learning and NLP.
+## Parsa Ghaffari's homepage
 
-#### About me
+Howdy stranger! Welcome to my homepage. :) 
 
-I am an entrepreneur helping machines understand human languages better, through use of artificial intelligence and machine learning. I started a company called [AYLIEN](http://aylien.com) back in 2011 to allow myself and my teammates to approach this problem more systematically and with more bandwidth.
+I'm Parsa Ghaffari–CEO, founder at [AYLIEN](http://aylien.com). I'm curious about intelligence, human life, and the future.
 
-AYLIEN is a leading provider of technologies and solutions for gathering and analyzing large volumes of textual data, and is used by thousands of developers and enterprises around the world. We also conduct fundamental research on deep learning-based NLP and publish the outcomes in various academic outlets.
+#### My genetic material 🧬
+
+To view and download digital copies of my genetic material please visit my [Genome Library](https://github.com/parsaghaffari/genome).
 
 #### Ways to connect with me
 
