@@ -13,6 +13,7 @@ To view and download digital copies of my genetic material please visit my [Geno
 If you are interested in connecting with me, you can:
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/parsa-ghaffari-a7300a24/)
+- Read my blog posts on [Medium](https://medium.com/@parsaghaffari)
 - Follow me on [Twitter](https://twitter.com/parsaghaffari)
 - Read the publications I have authored/co-authored on [Google Scholar](https://scholar.google.com/citations?user=eQEHcQ0AAAAJ&hl=en)
 - Drop me an email: `parsa@aylien.com`
