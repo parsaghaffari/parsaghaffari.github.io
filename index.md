@@ -1,6 +1,6 @@
 # Parsa 👽
 
-I'm a researcher and entrepreneur focused on NLP and news intelligence. CEO/founder @ [AYLIEN](https://aylien.com)
+I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include risk modeling, statistics, and immunology. CEO/founder @ [AYLIEN](https://aylien.com) - we're hiring!
 
 **My genetic material 🧬**
 
@@ -18,10 +18,6 @@ To view and download a digital copy of my genetic material please visit my [Geno
 
 - [Stock-NewsEventsSentiment (SNES) 1.0: A time-series dataset for joint news and market data analysis of stocks](https://medium.com/@parsaghaffari/stock-newseventssentiment-snes-1-0-a92c8748b2c3) `time series` `dataset`
 - [Exploring relationships between news and market data using time series analysis](https://medium.com/@parsaghaffari/exploring-relationships-between-news-and-market-data-using-time-series-analysis-8a46b443841d) `time series`
-
-**Videos**
-
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/arw6vN7M38M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Publications**
 
