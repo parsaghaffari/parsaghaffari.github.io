@@ -22,7 +22,7 @@ To view and download a digital copy of my genetic material please visit my [Geno
 
 **Blogs**
 
-- [Revisiting the Simulation Hypothesis (With a Tinge of Solipsism)](https://blog.parsabg.com/revisiting-the-simulation-hypothesis-with-a-tinge-of-solipsism-ea17685198a8){:target="_blank"} (January 29, 2023) `ideas`
+- [Revisiting the Simulation Hypothesis (With a Side of Solipsism)](https://blog.parsabg.com/revisiting-the-simulation-hypothesis-with-a-tinge-of-solipsism-ea17685198a8){:target="_blank"} (January 29, 2023) `ideas`
 - [Identifying causal links in NLP-enriched news data (with R code and dataset)](https://blog.parsabg.com/identifying-causal-links-in-nlp-enriched-news-data-with-r-code-and-dataset-240b965b78dd){:target="_blank"} (October 18, 2022) `time series` `code` `causal inference`
 - [Stock-NewsEventsSentiment (SNES) 1.0: A time-series dataset for joint news and market data analysis of stocks](https://medium.com/@parsaghaffari/stock-newseventssentiment-snes-1-0-a92c8748b2c3){:target="_blank"} (July 27, 2022) `time series` `dataset`
 - [Exploring relationships between news and market data using time series analysis](https://medium.com/@parsaghaffari/exploring-relationships-between-news-and-market-data-using-time-series-analysis-8a46b443841d){:target="_blank"} (June 30, 2022) `time series`
