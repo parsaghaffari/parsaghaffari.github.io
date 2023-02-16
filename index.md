@@ -16,6 +16,10 @@ To view and download a digital copy of my genetic material please visit my [Geno
 - Read my publications on [Google Scholar](https://scholar.google.com/citations?user=eQEHcQ0AAAAJ&hl=en){:target="_blank"}
 - Drop me an email: `parsa@aylien.com`
 
+**Projects**
+
+- [NewsGPT - Query the news in plain English](http://news-gpt.io/){:target="_blank"}
+
 **Blogs**
 
 - [Revisiting the Simulation Hypothesis (With a Tinge of Solipsism)](https://blog.parsabg.com/revisiting-the-simulation-hypothesis-with-a-tinge-of-solipsism-ea17685198a8){:target="_blank"} (January 29, 2023) `ideas`
