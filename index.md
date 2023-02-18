@@ -18,7 +18,7 @@ To view and download a digital copy of my genetic material please visit my [Geno
 
 **Projects**
 
-- [NewsGPT - Query the news in plain English](http://news-gpt.io/){:target="_blank"}
+- [NewsGPT - Query the news in plain English](https://news-gpt.io/){:target="_blank"}
 
 **Blogs**
 
