@@ -6,7 +6,7 @@ I'm a researcher and entrepreneur focused on machine learning, NLP, and news int
 
 **My genetic material 🧬**
 
-To view and download a digital copy of my genetic material please visit my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"}.
+My genome is open source, and you can view/clone! it in my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"}.
 
 **Ways to connect with me**
 
