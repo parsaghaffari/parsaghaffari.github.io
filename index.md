@@ -2,7 +2,7 @@
 
 ![img](./avatar.png)
 
-I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include risk modeling, statistics, and basic immunology. CEO/founder @ [AYLIEN](https://aylien.com){:target="_blank"} - we're hiring!
+I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include risk modeling, statistics, and basic immunology. Previously CEO/founder @ [AYLIEN](https://aylien.com){:target="_blank"}. Currently Head of Product Innovation at [Quantexa](https://www.quantexa.com/).
 
 **My genetic material 🧬**
 
