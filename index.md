@@ -2,11 +2,11 @@
 
 ![img](./avatar.png)
 
-I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include risk modeling, statistics, and basic immunology. Previously CEO/founder @ [AYLIEN](https://aylien.com){:target="_blank"}. Currently Head of Product Innovation at [Quantexa](https://www.quantexa.com/).
+I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include large language models and immunology. Previously CEO/founder @ [AYLIEN](https://aylien.com){:target="_blank"} – an NLP startup I sold to [Quantexa](https://www.quantexa.com/). Currently Head of Product Innovation at [Quantexa](https://www.quantexa.com/).
 
 **My genetic material 🧬**
 
-My genome is open source, and you can view/clone! it in my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"}.
+My genome is open source, and you can view/clone (lol) it via my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"} on GitHub.
 
 **Ways to connect with me**
 
