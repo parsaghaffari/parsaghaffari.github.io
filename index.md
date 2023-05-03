@@ -6,7 +6,7 @@ I'm a researcher and entrepreneur focused on machine learning, NLP, and news int
 
 **My genetic material 🧬**
 
-My genome is open source, and you can view/clone (lol) it via my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"} on GitHub.
+My genome is open source, and you can view/clone (!) it via my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"} on GitHub.
 
 **Ways to connect with me**
 
@@ -22,6 +22,7 @@ My genome is open source, and you can view/clone (lol) it via my [Genome Library
 
 **Blogs**
 
+- [Why I love immunology (and why you should too)](https://blog.parsabg.com/why-i-love-studying-immunology-and-you-should-too-8550d32a2a42){:target="_blank"} (May 3, 2023) `immunology` `ideas`
 - [Revisiting the Simulation Hypothesis (With a Side of Solipsism)](https://blog.parsabg.com/revisiting-the-simulation-hypothesis-with-a-tinge-of-solipsism-ea17685198a8){:target="_blank"} (January 29, 2023) `ideas`
 - [Identifying causal links in NLP-enriched news data (with R code and dataset)](https://blog.parsabg.com/identifying-causal-links-in-nlp-enriched-news-data-with-r-code-and-dataset-240b965b78dd){:target="_blank"} (October 18, 2022) `time series` `code` `causal inference`
 - [Stock-NewsEventsSentiment (SNES) 1.0: A time-series dataset for joint news and market data analysis of stocks](https://medium.com/@parsaghaffari/stock-newseventssentiment-snes-1-0-a92c8748b2c3){:target="_blank"} (July 27, 2022) `time series` `dataset`
