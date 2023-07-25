@@ -14,7 +14,7 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 - Read my blog posts on [Medium](https://blog.parsabg.com){:target="_blank"}
 - Follow me on [Twitter](https://twitter.com/parsaghaffari){:target="_blank"}
 - Read my publications on [Google Scholar](https://scholar.google.com/citations?user=eQEHcQ0AAAAJ&hl=en){:target="_blank"}
-- Drop me an email: `parsa@aylien.com`
+- Drop me an email: `parsa.ghaffari@gmail.com`
 
 **Projects**
 
