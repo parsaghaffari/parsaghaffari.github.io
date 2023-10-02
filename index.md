@@ -22,6 +22,7 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 
 **📝 Blogs**
 
+- [Stuff I’ve built — Semantic Web plugins for Gmail and WordPress (2010)](https://blog.parsabg.com/stuff-ive-built-semantic-web-plugins-for-gmail-and-wordpress-2010-65c09278f9d3){:target="_blank"} (October 2, 2023) `stuff i've built`
 - [Why I love immunology (and why you should too)](https://blog.parsabg.com/why-i-love-studying-immunology-and-you-should-too-8550d32a2a42){:target="_blank"} (May 3, 2023) `immunology` `ideas`
 - [Revisiting the Simulation Hypothesis (With a Side of Solipsism)](https://blog.parsabg.com/revisiting-the-simulation-hypothesis-with-a-tinge-of-solipsism-ea17685198a8){:target="_blank"} (January 29, 2023) `ideas`
 - [Identifying causal links in NLP-enriched news data (with R code and dataset)](https://blog.parsabg.com/identifying-causal-links-in-nlp-enriched-news-data-with-r-code-and-dataset-240b965b78dd){:target="_blank"} (October 18, 2022) `time series` `code` `causal inference`
