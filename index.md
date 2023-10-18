@@ -4,6 +4,8 @@
 
 I'm a researcher and entrepreneur focused on machine learning, NLP, and news intelligence. My current research areas include large language models and immunology. Previously CEO/founder @ [AYLIEN](https://aylien.com){:target="_blank"} – an NLP startup I sold to [Quantexa](https://www.quantexa.com/). Currently Head of Product Innovation at [Quantexa](https://www.quantexa.com/).
 
+---
+
 **🧬 My genetic material**
 
 My genome is open source, and you can view/clone (!) it via my [Genome Library](https://github.com/parsaghaffari/genome){:target="_blank"} on GitHub.
@@ -42,6 +44,8 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 - [Insight-1 at semeval-2016 task 5: Deep learning for multilingual aspect-based sentiment analysis](https://arxiv.org/abs/1609.02748){:target="_blank"}
 - [Opinion mining and sentiment polarity on twitter and correlation between events and sentiment](https://ieeexplore.ieee.org/abstract/document/7474355/){:target="_blank"}
 - [Text analysis and sentiment polarity on FIFA world cup 2014 tweets](http://www.johnbreslin.org/files/publications/20150810_lssa2015.pdf){:target="_blank"}
+
+---
 
 **🚴‍♂️ Cycling**
 
