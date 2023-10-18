@@ -49,140 +49,45 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 
 **📚 Books**
 
-<!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
-<style type="text/css" media="screen">
-.gr_custom_container_ {
-/* customize your Goodreads widget container here*/
-border: 1px solid gray;
-border-radius:10px;
-padding: 10px 5px 10px 5px;
-background-color: #FFF;
-color: #000;
-width: 300px
-}
-.gr_custom_header_ {
-/* customize your Goodreads header here*/
-border-bottom: 1px solid gray;
-width: 100%;
-margin-bottom: 5px;
-text-align: center;
-font-size: 120%
-}
-.gr_custom_each_container_ {
-/* customize each individual book container here */
-width: 100%;
-clear: both;
-margin-bottom: 10px;
-overflow: auto;
-padding-bottom: 4px;
-border-bottom: 1px solid #aaa;
-}
-.gr_custom_book_container_ {
-/* customize your book covers here */
-overflow: hidden;
-height: 60px;
-float: left;
-margin-right: 4px;
-width: 39px;
-}
-.gr_custom_author_ {
-/* customize your author names here */
-font-size: 10px;
-}
-.gr_custom_tags_ {
-/* customize your tags here */
-font-size: 10px;
-color: gray;
-}
-.gr_custom_rating_ {
-/* customize your rating stars here */
-float: right;
-}
+<style>
+    #customize-list{
+        float:left;
+        margin-left:20px;
+        list-style:none;
+    }
+    #gr_updates_widget{
+    float:left;
+    border-radius: 5px;
+    background-color:#fff;
+    border:solid #683205 10px;
+    -webkit-box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    -moz-box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    box-shadow: 0px 0px 4px 1px #595959,
+    inset 0px 0px 0px 1px #7D730B;
+    padding:15px 0 0px 15px;
+    width:250px;
+    height:365px;
+    }
+    #gr_footer{
+    margin-bottom:0px;
+    height:30px;
+    }
+    #gr_updates_widget p{
+    padding:0px;
+    margin:0;
+    font-size:14px;
+    }
+    #gr_footer img{
+    width:100px;
+    float:left;
+    }
 </style>
 
-<div id="gr_custom_widget_">
-<div class="gr_custom_container_">
-<h2 class="gr_custom_header_">
-<a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/258420-parsa?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget">Parsa&#39;s books</a>
-</h2>
-<div class="gr_custom_each_container_">
-<div class="gr_custom_book_container_">
-<a title="The Prophet" rel="nofollow" href="https://www.goodreads.com/review/show/5906547438?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Prophet" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355046521l/2547._SY75_.jpg" /></a>
+<div id="gr_updates_widget">
+    <iframe sandbox id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=5&user=258420&width=250" width="248" height="330" frameborder="0"></iframe>
+    <div id="gr_footer">
+    <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" src="https://s.gr-assets.com/images/layout/goodreads_logo_140.png" /></a>
+    </div>
 </div>
-<div class="gr_custom_rating_">
-<span class=" staticStars notranslate" title="it was amazing"><img alt="it was amazing" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /></span>
-</div>
-<div class="gr_custom_title_">
-<a rel="nofollow" href="https://www.goodreads.com/review/show/5906547438?utm_medium=api&amp;utm_source=custom_widget">The Prophet</a>
-</div>
-<div class="gr_custom_author_">
-by <a rel="nofollow" href="https://www.goodreads.com/author/show/6466154.Kahlil_Gibran">Kahlil Gibran</a>
-</div>
-</div>
-<div class="gr_custom_each_container_">
-<div class="gr_custom_book_container_">
-<a title="The End" rel="nofollow" href="https://www.goodreads.com/review/show/5905414603?utm_medium=api&amp;utm_source=custom_widget"><img alt="The End" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519387564l/36436067._SX50_.jpg" /></a>
-</div>
-<div class="gr_custom_rating_">
-<span class=" staticStars notranslate" title="it was ok"><img alt="it was ok" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-</div>
-<div class="gr_custom_title_">
-<a rel="nofollow" href="https://www.goodreads.com/review/show/5905414603?utm_medium=api&amp;utm_source=custom_widget">The End</a>
-</div>
-<div class="gr_custom_author_">
-by <a rel="nofollow" href="https://www.goodreads.com/author/show/1433597.Samuel_Beckett">Samuel Beckett</a>
-</div>
-</div>
-<div class="gr_custom_each_container_">
-<div class="gr_custom_book_container_">
-<a title="The Alchemist" rel="nofollow" href="https://www.goodreads.com/review/show/5895730346?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Alchemist" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463l/18144590._SY75_.jpg" /></a>
-</div>
-<div class="gr_custom_rating_">
-<span class=" staticStars notranslate" title="liked it"><img alt="liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-</div>
-<div class="gr_custom_title_">
-<a rel="nofollow" href="https://www.goodreads.com/review/show/5895730346?utm_medium=api&amp;utm_source=custom_widget">The Alchemist</a>
-</div>
-<div class="gr_custom_author_">
-by <a rel="nofollow" href="https://www.goodreads.com/author/show/566.Paulo_Coelho">Paulo Coelho</a>
-</div>
-</div>
-<div class="gr_custom_each_container_">
-<div class="gr_custom_book_container_">
-<a title="The Old Man and the Sea" rel="nofollow" href="https://www.goodreads.com/review/show/5895728653?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Old Man and the Sea" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SY75_.jpg" /></a>
-</div>
-<div class="gr_custom_rating_">
-<span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-</div>
-<div class="gr_custom_title_">
-<a rel="nofollow" href="https://www.goodreads.com/review/show/5895728653?utm_medium=api&amp;utm_source=custom_widget">The Old Man and the Sea</a>
-</div>
-<div class="gr_custom_author_">
-by <a rel="nofollow" href="https://www.goodreads.com/author/show/1455.Ernest_Hemingway">Ernest Hemingway</a>
-</div>
-</div>
-<div class="gr_custom_each_container_">
-<div class="gr_custom_book_container_">
-<a title="Measure What Matters" rel="nofollow" href="https://www.goodreads.com/review/show/2994684489?utm_medium=api&amp;utm_source=custom_widget"><img alt="Measure What Matters" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521104315l/39286958._SY75_.jpg" /></a>
-</div>
-<div class="gr_custom_rating_">
-<span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-</div>
-<div class="gr_custom_title_">
-<a rel="nofollow" href="https://www.goodreads.com/review/show/2994684489?utm_medium=api&amp;utm_source=custom_widget">Measure What Matters</a>
-</div>
-<div class="gr_custom_author_">
-by <a rel="nofollow" href="https://www.goodreads.com/author/show/22373767.John_Doerr">John Doerr</a>
-</div>
-</div>
-<br style="clear: both"/>
-<center>
-<a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
-</center>
-<noscript>
-Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Parsa, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
-</noscript>
-</div>
-
-</div>
-<script src="https://www.goodreads.com/review/custom_widget/258420.Parsa's%20bookshelf:%20read?cover_position=&cover_size=&num_books=5&order=&shelf=&sort=&widget_bg_transparent=" type="text/javascript" charset="utf-8"></script>
