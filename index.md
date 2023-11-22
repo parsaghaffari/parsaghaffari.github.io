@@ -49,12 +49,11 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 
 <div class="grid-container">
     <div class="grid-item">
-        **🚴‍♂️ Cycling**
+        <p><strong>🚴‍♂️ Cycling</strong></p>
         <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/120524488/latest-rides/5ebc884c33359db633b84f0330b40d7d227559ff'></iframe>
     </div>
     <div class="grid-item">
-        **📚 Books**
-
+        <p><strong>📚 Books</strong></p>
         <div id="gr_updates_widget">
             <iframe sandbox id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=400&num_updates=10&user=258420&width=300" width="300" height="400" frameborder="0"></iframe>
             <div id="gr_footer">
@@ -85,14 +84,12 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
     }
     .grid-container {
         display: grid;
-        grid-template-columns: 1fr 1fr; /* Defines two columns of equal width */
-        grid-gap: 10px; /* Optional: Space between columns */
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
     }
     
     .grid-item {
-        background-color: #f0f0f0; /* Optional: Background color for the grid items */
-        padding: 20px; /* Optional: Padding inside the grid items */
-        text-align: center; /* Optional: Center the text inside grid items */
-        border: 1px solid #ddd; /* Optional: Border for the grid items */
+        padding: 10px;
+        text-align: center;
     }
 </style>
