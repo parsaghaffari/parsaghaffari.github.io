@@ -87,7 +87,11 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
     }
-    
+    @media (max-width: 600px) {
+        .grid-container {
+            grid-template-columns: 1fr;
+        }
+    }
     .grid-item {
         padding: 10px;
         text-align: center;
