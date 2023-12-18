@@ -33,6 +33,7 @@ My genome is open source, and you can view/clone (!) it via my [Genome Library](
 
 **👨‍🔬 Publications**
 
+- [News Signals: An NLP Library for Text and Time Series](https://aclanthology.org/2023.nlposs-1.21.pdf){:target="_blank"}
 - [Character-level and multi-channel convolutional neural networks for large-scale authorship attribution](https://arxiv.org/abs/1609.06686){:target="_blank"}
 - [360 stance detection](https://aclanthology.org/N18-5007/){:target="_blank"}
 - [Data selection strategies for multi-domain sentiment analysis](https://arxiv.org/abs/1702.02426){:target="_blank"}
